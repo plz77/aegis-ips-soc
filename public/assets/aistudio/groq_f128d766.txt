@@ -1,0 +1,5 @@
+copilot-agent:
+YOUR_GROQ_COPILOT_API_KEY
+
+threat_agent:
+YOUR_GROQ_THREAT_API_KEY

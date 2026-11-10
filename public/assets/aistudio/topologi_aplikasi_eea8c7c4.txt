@@ -1,0 +1,13 @@
+[ INTERNET / WAN ] 
+        │
+[ Hardware Firewall ] (Filtering Layer 3/4: Blokir port & IP blacklist statis)
+        │
+   ▼ ───▼────────────────────────────────────────────────────────┐
+   │                  AI INTELLIGENCE PROXY / LAYER              │ <── (Posisi Baru)
+   │  - Deep Packet Inspection (DPI) & Heuristic Scoring         │
+   │  - Zero-Day Threat Prediction (ML Model)                    │
+   │  - Dynamic Traffic Shaping & Smart Routing                  │
+   └────┬──────────────────────────────────┬─────────────────────┘
+        │                                  │
+        ▼ (Trafik Bersih/Dinormalisasi)    ▼ (Anomali/Serangan)
+  [ Modul IPS: NIPS, HIPS, dll ]     [ Automated Quarantine/Block ]

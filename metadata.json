@@ -1,0 +1,6 @@
+{
+  "name": "AEGIS Unified IPS SOC & AI Intelligence Proxy",
+  "description": "Cybersecurity Unified IPS SOC Dashboard featuring integrated NIPS, HIPS, WIPS, NBA prevention engines, and AI Intelligence Proxy topology with real-time threat mitigation and attack simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
