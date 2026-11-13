@@ -1,8 +1,9 @@
 # AEGIS UNIFIED IPS SOC v4.2 PRO
+
 <br>
-<br>
+
 ![AEGIS Thumbnail](Unified-IPS.jpg)
-<br>
+
 <br>
 
 ---
