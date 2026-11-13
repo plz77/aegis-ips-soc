@@ -2,7 +2,7 @@
 
 
 ---
-Cybersecurity Unified IPS SOC Dashboard featuring integrated **NIPS**, **HIPS**, **WIPS**, **NBA** prevention engines, and **AI Intelligence Proxy** topology powered by **Groq LPU (Threat Agent & Copilot Agent)**.
+<p>Cybersecurity Unified IPS SOC Dashboard featuring integrated <strong>NIPS</strong>, <strong>HIPS</strong>, <strong>WIPS</strong>, <strong>NBA</strong> prevention engines, and <strong>AI Intelligence Proxy</strong> topology powered by <strong>Groq LPU (Threat Agent & Copilot Agent)</strong>.</p>
 ---
 
 <br>
