@@ -2,6 +2,9 @@
 
 Cybersecurity Unified IPS SOC Dashboard featuring integrated **NIPS**, **HIPS**, **WIPS**, **NBA** prevention engines, and **AI Intelligence Proxy** topology powered by **Groq LPU (Threat Agent & Copilot Agent)**.
 
+> **Kategori 02: Defensive Shield — Kartika Cyber Hackathon 2026**
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Coba_Aplikasi_Online-success?style=for-the-badge)](https://aegis-ips-soc.onrender.com/)
+
 ---
 
 ## 🚀 Panduan Deploy Live ke Production (GitHub & Render / Vercel)
