@@ -1,13 +1,15 @@
 # AEGIS UNIFIED IPS SOC v4.2 PRO
 
+
+---
+Cybersecurity Unified IPS SOC Dashboard featuring integrated **NIPS**, **HIPS**, **WIPS**, **NBA** prevention engines, and **AI Intelligence Proxy** topology powered by **Groq LPU (Threat Agent & Copilot Agent)**.
+---
+
 <br>
 
 ![AEGIS Thumbnail](Unified-IPS.jpg)
 
 <br>
-
----
-Cybersecurity Unified IPS SOC Dashboard featuring integrated **NIPS**, **HIPS**, **WIPS**, **NBA** prevention engines, and **AI Intelligence Proxy** topology powered by **Groq LPU (Threat Agent & Copilot Agent)**.
 
 ---
 
